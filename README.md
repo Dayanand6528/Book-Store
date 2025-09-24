@@ -24,3 +24,4 @@ This Bookstore project is a full-stack web application designed to manage books,
 - Admin Dashboard: Role-based access to manage inventory, view orders, and track customer activity.
 
 
+<img width="1884" height="1077" alt="Screenshot 2025-09-24 192727" src="https://github.com/user-attachments/assets/453a95ec-cc34-4fb7-845b-b16d0f586df9" />
